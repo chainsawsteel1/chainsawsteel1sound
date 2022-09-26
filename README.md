@@ -1,0 +1,4 @@
+# chainsawsteel1sound
+chainsawsteel1サウンドのソース達
+僕の声は抜いた
+貴方の声を追加して遊んでもいいね
